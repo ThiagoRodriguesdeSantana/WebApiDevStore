@@ -1,0 +1,120 @@
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\obj\Debug\DevStore.Api.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\obj\Debug\DevStore.Api.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\ApplicationInsights.config
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\DevStore.Api.dll.config
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\DevStore.Api.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\DevStore.Api.pdb
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Antlr3.Runtime.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\DevStore.Domain.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\DevStore.Infra.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Microsoft.AI.Web.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Newtonsoft.Json.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.Helpers.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.Http.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.Mvc.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.Optimization.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.Razor.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.WebPages.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\WebGrease.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\EntityFramework.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\DevStore.Domain.pdb
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\DevStore.Infra.pdb
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\DevStore.Infra.dll.config
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Newtonsoft.Json.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.Helpers.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.Http.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.Mvc.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.Optimization.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.Razor.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.WebPages.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Antlr3.Runtime.pdb
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\Microsoft.AI.Web.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\EntityFramework.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\obj\Debug\DevStore.Api.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\obj\Debug\DevStore.Api.pdb
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.Cors.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.Http.Cors.dll
+C:\Users\Thiago\source\repos\DevStore.Domain\DevStore.Api\bin\System.Web.Http.Cors.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\ApplicationInsights.config
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\DevStore.Api.dll.config
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\DevStore.Api.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\DevStore.Api.pdb
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Antlr3.Runtime.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\DevStore.Domain.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\DevStore.Infra.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\EntityFramework.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Microsoft.AI.Web.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Newtonsoft.Json.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.Cors.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.Helpers.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.Http.Cors.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.Http.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.Mvc.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.Optimization.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.Razor.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.WebPages.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\WebGrease.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\DevStore.Domain.pdb
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\DevStore.Infra.pdb
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\DevStore.Infra.dll.config
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\EntityFramework.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.Http.Cors.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Newtonsoft.Json.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.Helpers.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.Http.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.Mvc.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.Optimization.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.Razor.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.WebPages.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Antlr3.Runtime.pdb
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\bin\Microsoft.AI.Web.xml
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\obj\Debug\DevStore.Api.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\obj\Debug\DevStore.Api.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\obj\Debug\DevStore.Api.dll
+C:\Users\Thiago\Documents\Visual Studio 2017\Projects\DevStore\DevStore.Api\obj\Debug\DevStore.Api.pdb
